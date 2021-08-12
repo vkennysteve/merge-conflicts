@@ -1,9 +1,13 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
 # Leadership
 - skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including front end dev, GitHub, and Open Source.
+
+# Team Person
+- skill: Team Player
+  description: Collaborater in multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  # Detail Oriented
+- skill: Attention to details
+  description: Collaborater in multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
