@@ -1,15 +1,11 @@
-## Your GitHub Learning Lab Repository for Managing Merge Conflicts
+## Freelance Resume Using gh_pages
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Welcome to the repository for my freelance resume. This repository was forked from @jglovier.
 
-Oh! I haven't introduced myself...
+Quick intro of myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+My name's Vic an engineering student and wannabe __app developer__; I'm an avid gamer, i have always been fascinated with how games like _COD mobile_, _PUBG_, _PES21_, _Godofwar_ and other captivating games are built to be so entertaining and flawlessly functional, i thought to myself i will like to do something of sort so i decided to learn coding.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+So far I have experience in HTML, CSS and Python currently learning javascript and C++; I’m available for any collaboration on any related projects and challenges. __Learning is one of my hobbies__ :slightly_smiling_face:
 
-I'll meet you over there, can't wait to get started!
-
-> There are already some Pull Requests open, you will work on those later in the course.
-
-This course is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+This template is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases i’ve made changes to the data so it would suit my use, so head to the original project repo to learn more about the cool people behind this project.
